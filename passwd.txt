@@ -1,0 +1,5 @@
+user1,$2b$12$FfH8Bxz3YFNr2lh9oEHEGOy6GWaRV8.CQc9X6uYs80hHy0QDX0jB6,Client
+user2,$2b$12$hJDOZQiHxMjng0XAiCik5O/JlLFcfRRhX1V.Q6ETuEuQdfEbR51WC,PremiumClient
+admin,$2b$12$3KKaExZO0E.qSvNeOInDqund5iLZTLD6YIzCOKF4cIAb.KZAWvl9S,Admin
+advisor,$2b$12$56ovnr/cEyFHaXKPMMuA0ONeRFiRmibJbPX8S7dB0ZysKAvGcRUV2,FinancialAdvisor
+planner,$2b$12$GfxJhLE98X.znZL9JZikxOZxJ4WPr4GkUWiG/w9hxkxHFJ2WQDAIe,FinancialPlanner
